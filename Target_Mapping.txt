@@ -1,0 +1,199 @@
+"12201":
+    {
+        "Diagnosis": [
+            "System measurements indicate that it has a dirty condenser or is overcharged (too much refrigerant)."
+        ],
+        "Symptoms":
+        [
+            "High suction pressure",
+            "High liquid pressure",
+            "Low total superheat",
+            "High subcooling",
+            "Poor relative humidity control"
+        ],
+        "Operational Characteristics": [
+            "System measurements indicate that it has a dirty condenser or is overcharged (too much refrigerant).",
+            "A dirty condenser or refrigerant overcharge will result reduced cooling capacity, increased operational cost due to high head pressure, poor relative humidity control due to increased suction pressure, and possibly compressor damage due to compressor flooding."
+        ],
+        "Recommendations": [
+            "If condenser is clean, proceed to refrigerant overcharge. If condenser is dirty, follow recommendation below, let dry thoroughly, and check re-check system for any other faults.",
+            "Dirty Condenser:<br>Follow safety precautions and remove power. Clean the condenser with low to medium pressurized water from the inside out to push dirt back out the way that it entered to coil. Use caution not to bend any fins. If the coil is plugged, chemical cleaning may be needed. If coil appears clean but still indicates like the coil is dirty, verify that the coil is not a split type condenser that will require coil separation for proper cleaning. Follow manufacturer's recommendations for cleaning coil.",
+            "Refrigerant Overcharge:<br>Adjust charge to manufacturer's recommended level. Recover excess refrigerant using an approved method."
+        ]
+
+"10020":
+    {
+        "Diagnosis": [
+            "System measurements indicate that it is undercharged (too little refrigerant)"
+        ],
+        "Symptoms": [
+            "Low suction pressure",
+            "Low liquid pressure",
+            "High total superheat",
+            "Low subcooling",
+            "High discharge temperature",
+            "Poor relative humidity control"
+        ],
+        "Operational Characteristics": [
+            "System measurements indicate that it is undercharged (too little refrigerant)",
+            "Undercharge will result in reduced cooling capacity, increased operational cost, poor relative humidity control due to starved evaporator coil, and higher then normal discharge temperatures due to inadequate compressor cooling."
+        ],
+        "Recommendations": [
+            "Before adding refrigerant, verify that there is no pressure drop across the liquid line dryer (if equipped) by measuring temperature across the dryer. The temperature change across the dryer should be no more than 3°F (1.7 K). Check for visual indications of leaks and/or leak test with an electronic detector. If no leaks are apparent, follow manufacturer's charging requirements and add refrigerant to reduce total superheat to proper level."
+        ]
+    }
+ "21212":
+    {
+        "Diagnosis": [
+            "System measurements indicate that it is overcharged (too much refrigerant)."
+        ],
+        "Symptoms": [
+            "Normal suction pressure",
+            "High liquid pressure",
+            "Normal evaporator/total superheat",
+            "High subcooling",
+            "Normal relative humidity control"
+        ],
+        "Operational Characteristics": [
+            "Overcharge will result reduced cooling capacity, and increased operational cost due to increased head pressure."
+
+        ],
+        "Recommendations": [
+            "Adjust charge to manufacturer's recommended levels. Recover excess refrigerant using an approved method."
+        ],
+        "Notes": [
+        ]
+    },
+"22202":
+    {
+        "Diagnosis": [
+            "System measurements indicate that it is severely overcharged (too much refrigerant)."
+        ],
+        "Symptoms": [
+            "High suction pressure",
+            "High liquid pressure",
+            "Low evaporator/total superheat",
+            "High subcooling",
+            "Poor relative humidity control"
+        ],
+        "Operational Characteristics": [
+            "System measurements indicate that it is severely overcharged (too much refrigerant).",
+            "Severe overcharge will result reduced cooling capacity due to high suction pressure and increased operational costs due to high head pressure. There is an increased chance of compressor damage due to possible flooding."
+
+        ],
+        "Recommendations": [
+            "Adjust charge to manufacturer's recommended level. Recover excess refrigerant using an approved method."
+        ],
+        "Notes": [
+        ]
+    },
+"21211":
+    {
+        "Diagnosis": [
+            "System measurements indicate a dirty or plugged condenser."
+        ],
+        "Symptoms": [
+            "Normal suction pressure",
+            "High liquid pressure",
+            "Normal total superheat",
+            "High subcooling",
+            "High discharge line temperature"
+        ],
+        "Operational Characteristics": [
+            "A dirty condenser will significantly increase operational costs, reduce cooling capacity, and increase discharge line temperature. In extreme cases a dirty condenser can break down refrigerant oil and/or overheat the compressor, and decrease relative humidity control."
+        ],
+        "Recommendations": [
+            "Follow safety precautions and remove power. Clean the condenser with low to medium pressurized water from the inside out to push dirt back out the way that it entered to coil. Use caution not to bend any fins. If the coil is plugged, chemical cleaning may be needed. If coil appears clean but still indicates like the coil is dirty, verify that the coil is not a split type condenser that will require coil separation for proper cleaning. Follow manufacturer's recommendations for cleaning the coil."
+        ],
+        "Notes": [
+        ]
+    },
+"21101":
+    {
+        "Diagnosis": [
+            "System measurements indicate a possibly loose, or improperly adjusted or insulated TXV/EXV bulb."
+        ],
+        "Symptoms": [
+            "High suction pressure",
+            "High liquid pressure",
+            "Low superheat",
+            "Low subcooling",
+            "Lower than normal discharge line temperatures",
+            "Possible flooding",
+            "Increased Amps draw"
+        ],
+        "Operational Characteristics": [
+            "A TXV/EXV equipped system with a loose or improperly connected sensing bulb cannot properly control evaporator superheat. The valve will over feed refrigerant. High suction pressure with low superheat can result in continuous or intermittent flooding, and/or TXV/EXV hunting and capacity losses. Flooding can result in severe compressor damage or loss of lubrication."
+        ],
+        "Recommendations": [
+            "Verify proper TXV/EXV bulb installation following manufacturer's mounting instructions including proper clock location, correct contact, mounting direction, external equalizer connection if equipped, proper installation of clamps, and insulation as required."
+        ],
+        "Notes": [
+        ]
+    },
+"21110":
+    {
+        "Diagnosis": [
+            "System measurements indicate a slight undercharge (low on refrigerant)"
+        ],
+        "Symptoms": [
+            "Normal suction pressure",
+            "Normal liquid pressure",
+            "Normal superheat",
+            "Low subcooling"
+        ],
+        "Operational Characteristics": [
+            "A unit running with a slight undercharge may not achieve full capacity during peak demand periods, resulting in extended periods of operation, increased electrical consumption and higher than normal conditioned space temperature"
+        ],
+        "Recommendations": [
+            "Add refrigerant to achieve designed subcooling target."
+        ],
+        "Notes": [
+        ]
+    },
+"21121":
+    {
+        "Diagnosis": [
+            "System measurements indicate total superheat is excessive"
+        ],
+        "Symptoms": [
+            "Normal suction pressure",
+            "Normal liquid pressure",
+            "High superheat",
+            "Normal subcooling"
+        ],
+        "Operational Characteristics": [
+            "High total superheat is an indication of inadequate suction line insulation or partially restricted TXV. Install a suction line temperature sensor at the evaporator outlet to measure the suction line temperature. A significant increase in suction line temperature (5 degrees or more) indicates that the suction line insulation may be inadequate. Add additional suction line insulation.",
+            "If there is not a significant increase in suction line temperature between the evaporator outlet and the condenser inlet, and the superheat is higher than normal, check the TXV for a partial restriction."
+        ],
+        "Recommendations": [
+            "Add additional insulation to suction line as needed to decrease the superheat gain in the suction line. Inspect the TXV for a partial restriction, repair or replace as needed."
+        ],
+        "Notes": [
+        ]
+    },
+"default":
+    {
+        "Diagnosis": [
+            "System is exhibiting a non-typical problem. Before proceeding, verify the correct profile is selected, the correct refrigerant is selected, the probes are connected properly and mapped to the correct locations (if using the iManifold™ Product). This could also be the result of multiple system problems typically related to refrigerant charge and/or airflow across the evaporator or condenser. Verify correct airflow prior to adjusting charge."
+        ],
+        "Symptoms": [
+            "Low/high suction/vapor pressure",
+            "Low/high liquid/discharge pressure",
+            "Low/high superheat",
+            "Low/high subcooling"            
+        ],
+        "Operational Characteristics": [
+            "Various individual Symptoms of improper operation that typically do not occur without affecting other system measurements."
+        ],
+        "Recommendations": [
+            "Verify correct profile and refrigerant",
+            "Verify proper probe placement, connection and mapping (if using the iManifold™ Product)",
+            "Verify condenser is clean",
+            "Verify evaporator coil is clean",
+            "Verify correct airflow across the evaporator",
+            "Verify that any manual input values are in correct fields"
+        ],
+        "Notes": [
+        ]
+    }

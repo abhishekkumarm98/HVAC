@@ -1,0 +1,770 @@
+{
+    "11111":
+    {
+        "Diagnosis": [
+            "System is operating properly."
+        ],
+        "Symptoms": [
+        ],
+        "Operational Characteristics": [
+        ],
+        "Recommendations": [
+        ]
+    },
+    "21111":
+    {
+        "Diagnosis": [
+            "System is operating properly."
+        ],
+        "Symptoms": [
+        ],
+        "Operational Characteristics": [
+        ],
+        "Recommendations": [
+        ]
+    },
+    "12201":
+    {
+        "Diagnosis": [
+            "System measurements indicate that it has a dirty condenser or is overcharged (too much refrigerant)."
+        ],
+        "Symptoms":
+        [
+            "High suction pressure",
+            "High liquid pressure",
+            "Low total superheat",
+            "High subcooling",
+            "Poor relative humidity control"
+        ],
+        "Operational Characteristics": [
+            "System measurements indicate that it has a dirty condenser or is overcharged (too much refrigerant).",
+            "A dirty condenser or refrigerant overcharge will result reduced cooling capacity, increased operational cost due to high head pressure, poor relative humidity control due to increased suction pressure, and possibly compressor damage due to compressor flooding."
+        ],
+        "Recommendations": [
+            "If condenser is clean, proceed to refrigerant overcharge. If condenser is dirty, follow recommendation below, let dry thoroughly, and check re-check system for any other faults.",
+            "Dirty Condenser:<br>Follow safety precautions and remove power. Clean the condenser with low to medium pressurized water from the inside out to push dirt back out the way that it entered to coil. Use caution not to bend any fins. If the coil is plugged, chemical cleaning may be needed. If coil appears clean but still indicates like the coil is dirty, verify that the coil is not a split type condenser that will require coil separation for proper cleaning. Follow manufacturer's recommendations for cleaning coil.",
+            "Refrigerant Overcharge:<br>Adjust charge to manufacturer's recommended level. Recover excess refrigerant using an approved method."
+        ]
+    },
+    "12202":
+    {
+        "Diagnosis": [
+            "System measurements indicate that it has a dirty condenser or is overcharged (too much refrigerant)."
+        ],
+        "Symptoms":
+        [
+            "High suction pressure",
+            "High liquid pressure",
+            "Low total superheat",
+            "High subcooling",
+            "Poor relative humidity control"
+        ],
+        "Operational Characteristics": [
+            "System measurements indicate that it has a dirty condenser or is overcharged (too much refrigerant).",
+            "A dirty condenser or refrigerant overcharge will result reduced cooling capacity, increased operational cost due to high head pressure, poor relative humidity control due to increased suction pressure, and possibly compressor damage due to compressor flooding."
+        ],
+        "Recommendations": [
+            "If condenser is clean, proceed to refrigerant overcharge. If condenser is dirty, follow recommendation below, let dry thoroughly, and check re-check system for any other faults.",
+            "Dirty Condenser:<br>Follow safety precautions and remove power. Clean the condenser with low to medium pressurized water from the inside out to push dirt back out the way that it entered to coil. Use caution not to bend any fins. If the coil is plugged, chemical cleaning may be needed. If coil appears clean but still indicates like the coil is dirty, verify that the coil is not a split type condenser that will require coil separation for proper cleaning. Follow manufacturer's recommendations for cleaning coil.",
+            "Refrigerant Overcharge:<br>Adjust charge to manufacturer's recommended level. Recover excess refrigerant using an approved method."
+        ]
+    },
+    "10020":
+    {
+        "Diagnosis": [
+            "System measurements indicate that it is undercharged (too little refrigerant)"
+        ],
+        "Symptoms": [
+            "Low suction pressure",
+            "Low liquid pressure",
+            "High total superheat",
+            "Low subcooling",
+            "High discharge temperature",
+            "Poor relative humidity control"
+        ],
+        "Operational Characteristics": [
+            "System measurements indicate that it is undercharged (too little refrigerant)",
+            "Undercharge will result in reduced cooling capacity, increased operational cost, poor relative humidity control due to starved evaporator coil, and higher then normal discharge temperatures due to inadequate compressor cooling."
+        ],
+        "Recommendations": [
+            "Before adding refrigerant, verify that there is no pressure drop across the liquid line dryer (if equipped) by measuring temperature across the dryer. The temperature change across the dryer should be no more than 3°F (1.7 K). Check for visual indications of leaks and/or leak test with an electronic detector. If no leaks are apparent, follow manufacturer's charging requirements and add refrigerant to reduce total superheat to proper level."
+        ]
+    },
+    "10022":
+    {
+        "Diagnosis": [
+            "System measurements indicate potential liquid restriction, plugged liquid line dryer, or undersized metering device"
+        ],
+        "Symptoms": [
+            "Low suction pressure",
+            "Low liquid pressure",
+            "High total superheat",
+            "High subcooling",
+            "Liquid line cooler than ambient temperature",
+            "Higher than normal discharge temperatures",
+            "Poor relative humidity control"
+        ],
+        "Operational Characteristics": [
+            "System measurements indicate potential liquid restriction, plugged liquid line dryer, or undersized metering device",
+            "Liquid line restrictions result in loss of cooling capacity, increased operational costs, poor relative humidity control due to starved evaporator, higher than normal discharge temperatures due to inadequate compressor cooling."
+
+        ],
+        "Recommendations": [
+            "Try to find a location in the liquid line where a temperature drops exists (indicating a drop in pressure) and correct or remove the pressure drop. Verify liquid service valve is completely open, verify temperature drop across liquid line dryer (if installed) is less than 33°F (1.7 K), verify liquid line is sized properly for length and lift."
+        ],
+        "Notes": [
+            "Check for multiple dryers. Some systems have internal dryers located in the condensing unit. If a system has more than one dryer, remove both dryers and install a single dryer in the liquid line before the metering device."
+        ]
+    },
+    "12200":
+    {
+        "Diagnosis": [
+            "Symptoms indicate airflow problem or air bypassing evaporator coil."
+        ],
+        "Symptoms": [
+            "Low suction pressure",
+            "Low liquid pressure",
+            "Low total superheat",
+            "Low subcooling",
+            "Evaporator coil possible operating near freezing conditions"
+        ],
+        "Operational Characteristics": [
+            "Low airflow will result in reduced total capacity, increased operational costs, poor relative humidity control if coil freezes, and potential compressor damage."
+        ],
+        "Recommendations": [
+            "Verify filter and evaporator coil are clean, verify blower is clean, verify secondary heat exchanger is clean if system includes a 90+ AFUE warm air furnace, measure and verify airflow with an appropriate method. Set airflow to manufacturer's recommended airflow. For AC systems in temperate North American climates nominal airflow is 400 CFM/ton across a dry evaporator coil. (450 CFM/ton for dry climates and 350 CFM/ton for humid climates.)"
+        ],
+        "Notes": [
+            "Note: If system has a frozen coil or suction line, the evaporator coil must be completely defrosted prior to checking refrigerant charge. Air conditioning systems must not be charged if the evaporator has ice on the coil."
+        ]
+    },
+    "11011":
+    {
+        "Diagnosis": [
+            "System measurements indicate low head pressure. This condition typically occurs when the system is not operating at its rated capacity due to a lack of humidity in a dry climate (latent load)."
+        ],
+        "Symptoms": [
+            "Normal suction pressure",
+            "Low liquid pressure",
+            "Normal superheat",
+            "Normal subcooling"
+        ],
+        "Operational Characteristics": [
+            "Systems operating in dry climates often exhibit this condition along with below nominal total capacity. If the system is designed for a nominal 400 CFM per ton, this is completely normal operation as the system should be operation near or above 100% of the rated sensible capacity. As there is no latent heat to remove, the total capacity will be between 73% and 78% of the nominal capacity of the system."
+        ],
+        "Recommendations": [
+            "If the system is keeping up with the space cooling requirements, change the profile to the next higher condenser SEER rating, or benchmark the system to clear out the troubleshooting flag. The condenser is engineered to reject the heat of both the sensible and latent loads, and because there is no latent heat to reject, the condenser is effectively oversized for the total quantity of heat being rejected giving the systems characteristics of a higher efficiency condenser.",
+            "If the sensible capacity is too low, and the system cannot keep up with the space requirements, the airflow will need to be increased to achieve total capacity. Typical airflows per ton for systems engineered for high sensible capacity are 450-525 CFM/Ton. If the system is not able to satisfy the space cooling requirements, and everything else is normal, the airflow may need to be increased by increasing the fan speed, reducing duct restrictions, using a less restrictive filter, increasing the blower size, or making duct modifications to handle the higher airflow requirements. In rare cases, the system may not have been properly sized for the space cooling requirements."
+        ],
+        "Notes": [
+        ]
+    },
+    "12010":
+    {
+        "Diagnosis": [
+            "System Measurements indicate compressor may have bad valves or internal bypass."
+        ],
+        "Symptoms": [
+            "High suction pressure",
+            "Low liquid pressure",
+            "Normal superheat",
+            "Normal or Low subcooling",
+            "Poor relative humidity control",
+            "Verify that the high side and low side valve handles on your gauges are closed.",
+            "Verify that the system is not bypassing hot gas if equipped with hot gas bypass controls."
+        ],
+        "Operational Characteristics": [
+            "A compressor with bad valves will have reduced cooling capacity, poor relative humidity control, and high operational costs. The system will have high suction pressure, low liquid pressure and most times will be very hot to the touch."
+        ],
+        "Recommendations": [
+            "Before condemning the compressor:",
+            "On semi-hermitic compressors, if the system equalizes quickly when shut off, this is a good indication that the discharge valve has failed.",
+            "Most modern scroll compressors do have a discharge check valve, however, some older models may not. Older scrolls can run backwards for a few seconds at power down while pressures equalize. If this happens, the addition of a discharge check valve is recommended.",
+            "A loud rushing noise during operation may indicate that the internal compressor bypass valve has opened and did not properly reset. After verifying all the above, compressor replacement may be required."
+        ],
+        "Notes": [
+        ]
+    },
+    "12011":
+    {
+        "Diagnosis": [
+            "System Measurements indicate compressor may have bad valves or internal bypass."
+        ],
+        "Symptoms": [
+            "High suction pressure",
+            "Low liquid pressure",
+            "Normal superheat",
+            "Normal or Low subcooling",
+            "Poor relative humidity control",
+            "Verify that the high side and low side valve handles on your gauges are closed.",
+            "Verify that the system is not bypassing hot gas if equipped with hot gas bypass controls."
+        ],
+        "Operational Characteristics": [
+            "A compressor with bad valves will have reduced cooling capacity, poor relative humidity control, and high operational costs. The system will have high suction pressure, low liquid pressure and most times will be very hot to the touch."
+        ],
+        "Recommendations": [
+            "Before condemning the compressor:",
+            "On semi-hermitic compressors, if the system equalizes quickly when shut off, this is a good indication that the discharge valve has failed.",
+            "Most modern scroll compressors do have a discharge check valve, however, some older models may not. Older scrolls can run backwards for a few seconds at power down while pressures equalize. If this happens, the addition of a discharge check valve is recommended.",
+            "A loud rushing noise during operation may indicate that the internal compressor bypass valve has opened and did not properly reset. After verifying all the above, compressor replacement may be required."
+        ],
+        "Notes": [
+        ]
+    },
+    "12012":
+    {
+        "Diagnosis": [
+            "System Measurements indicate compressor may have bad valves or internal bypass."
+        ],
+        "Symptoms": [
+            "High suction pressure",
+            "Low liquid pressure",
+            "Normal superheat",
+            "Normal or Low subcooling",
+            "Poor relative humidity control",
+            "Verify that the high side and low side valve handles on your gauges are closed.",
+            "Verify that the system is not bypassing hot gas if equipped with hot gas bypass controls."
+        ],
+        "Operational Characteristics": [
+            "A compressor with bad valves will have reduced cooling capacity, poor relative humidity control, and high operational costs. The system will have high suction pressure, low liquid pressure and most times will be very hot to the touch."
+        ],
+        "Recommendations": [
+            "Before condemning the compressor:",
+            "On semi-hermitic compressors, if the system equalizes quickly when shut off, this is a good indication that the discharge valve has failed.",
+            "Most modern scroll compressors do have a discharge check valve, however, some older models may not. Older scrolls can run backwards for a few seconds at power down while pressures equalize. If this happens, the addition of a discharge check valve is recommended.",
+            "A loud rushing noise during operation may indicate that the internal compressor bypass valve has opened and did not properly reset. After verifying all the above, compressor replacement may be required."
+        ],
+        "Notes": [
+        ]
+    },
+    "12000":
+    {
+        "Diagnosis": [
+            "System Measurements indicate compressor may have bad valves or internal bypass."
+        ],
+        "Symptoms": [
+            "High suction pressure",
+            "Low liquid pressure",
+            "Normal superheat",
+            "Normal or Low subcooling",
+            "Poor relative humidity control",
+            "Verify that the high side and low side valve handles on your gauges are closed.",
+            "Verify that the system is not bypassing hot gas if equipped with hot gas bypass controls."
+        ],
+        "Operational Characteristics": [
+            "A compressor with bad valves will have reduced cooling capacity, poor relative humidity control, and high operational costs. The system will have high suction pressure, low liquid pressure and most times will be very hot to the touch."
+        ],
+        "Recommendations": [
+            "Before condemning the compressor:",
+            "On semi-hermitic compressors, if the system equalizes quickly when shut off, this is a good indication that the discharge valve has failed.",
+            "Most modern scroll compressors do have a discharge check valve, however, some older models may not. Older scrolls can run backwards for a few seconds at power down while pressures equalize. If this happens, the addition of a discharge check valve is recommended.",
+            "A loud rushing noise during operation may indicate that the internal compressor bypass valve has opened and did not properly reset. After verifying all the above, compressor replacement may be required."
+        ],
+        "Notes": [
+        ]
+    },
+    "12001":
+    {
+        "Diagnosis": [
+            "System Measurements indicate compressor may have bad valves or internal bypass."
+        ],
+        "Symptoms": [
+            "High suction pressure",
+            "Low liquid pressure",
+            "Normal superheat",
+            "Normal or Low subcooling",
+            "Poor relative humidity control",
+            "Verify that the high side and low side valve handles on your gauges are closed.",
+            "Verify that the system is not bypassing hot gas if equipped with hot gas bypass controls."
+        ],
+        "Operational Characteristics": [
+            "A compressor with bad valves will have reduced cooling capacity, poor relative humidity control, and high operational costs. The system will have high suction pressure, low liquid pressure and most times will be very hot to the touch."
+        ],
+        "Recommendations": [
+            "Before condemning the compressor:",
+            "On semi-hermitic compressors, if the system equalizes quickly when shut off, this is a good indication that the discharge valve has failed.",
+            "Most modern scroll compressors do have a discharge check valve, however, some older models may not. Older scrolls can run backwards for a few seconds at power down while pressures equalize. If this happens, the addition of a discharge check valve is recommended.",
+            "A loud rushing noise during operation may indicate that the internal compressor bypass valve has opened and did not properly reset. After verifying all the above, compressor replacement may be required."
+        ],
+        "Notes": [
+        ]
+    },
+    "12002":
+    {
+        "Diagnosis": [
+            "System Measurements indicate compressor may have bad valves or internal bypass."
+        ],
+        "Symptoms": [
+            "High suction pressure",
+            "Low liquid pressure",
+            "Normal superheat",
+            "Normal or Low subcooling",
+            "Poor relative humidity control",
+            "Verify that the high side and low side valve handles on your gauges are closed.",
+            "Verify that the system is not bypassing hot gas if equipped with hot gas bypass controls."
+        ],
+        "Operational Characteristics": [
+            "A compressor with bad valves will have reduced cooling capacity, poor relative humidity control, and high operational costs. The system will have high suction pressure, low liquid pressure and most times will be very hot to the touch."
+        ],
+        "Recommendations": [
+            "Before condemning the compressor:",
+            "On semi-hermitic compressors, if the system equalizes quickly when shut off, this is a good indication that the discharge valve has failed.",
+            "Most modern scroll compressors do have a discharge check valve, however, some older models may not. Older scrolls can run backwards for a few seconds at power down while pressures equalize. If this happens, the addition of a discharge check valve is recommended.",
+            "A loud rushing noise during operation may indicate that the internal compressor bypass valve has opened and did not properly reset. After verifying all the above, compressor replacement may be required."
+        ],
+        "Notes": [
+        ]
+    },
+    "21212":
+    {
+        "Diagnosis": [
+            "System measurements indicate that it is overcharged (too much refrigerant)."
+        ],
+        "Symptoms": [
+            "Normal suction pressure",
+            "High liquid pressure",
+            "Normal evaporator/total superheat",
+            "High subcooling",
+            "Normal relative humidity control"
+        ],
+        "Operational Characteristics": [
+            "Overcharge will result reduced cooling capacity, and increased operational cost due to increased head pressure."
+
+        ],
+        "Recommendations": [
+            "Adjust charge to manufacturer's recommended levels. Recover excess refrigerant using an approved method."
+        ],
+        "Notes": [
+        ]
+    },
+    "22202":
+    {
+        "Diagnosis": [
+            "System measurements indicate that it is severely overcharged (too much refrigerant)."
+        ],
+        "Symptoms": [
+            "High suction pressure",
+            "High liquid pressure",
+            "Low evaporator/total superheat",
+            "High subcooling",
+            "Poor relative humidity control"
+        ],
+        "Operational Characteristics": [
+            "System measurements indicate that it is severely overcharged (too much refrigerant).",
+            "Severe overcharge will result reduced cooling capacity due to high suction pressure and increased operational costs due to high head pressure. There is an increased chance of compressor damage due to possible flooding."
+
+        ],
+        "Recommendations": [
+            "Adjust charge to manufacturer's recommended level. Recover excess refrigerant using an approved method."
+        ],
+        "Notes": [
+        ]
+    },
+    "20022":
+    {
+        "Diagnosis": [
+            "System measurements indicate potential liquid restriction or plugged liquid line dryer."
+        ],
+        "Symptoms": [
+            "Low suction pressure",
+            "Low liquid pressure",
+            "High total/evaporator superheat",
+            "High subcooling",
+            "Liquid line cooler than outdoor air",
+            "Higher than normal discharge temperatures",
+            "Poor relative humidity control"
+        ],
+        "Operational Characteristics": [
+            "Liquid line restrictions result in loss of cooling capacity, increased operational costs, poor relative humidity control due to starved evaporator, higher than normal discharge temperatures due to inadequate compressor cooling."
+        ],
+        "Recommendations": [
+            "Try to find a location in the liquid line where a temperature drops exists (indicating a drop in pressure) and correct or remove the pressure drop. Verify liquid service valve is completely open, verify temperature drop across liquid line dryer (if installed) is less than 3°F (1.7 K), verify liquid line is sized properly for length and lift."
+        ],
+        "Notes": [
+            "Check for multiple dryers. Some systems have internal dryers located in the condensing unit. If a system has more than one dryer, remove both dryers and install a single dryer in the liquid line before the metering device."
+        ]
+    },
+    "20011":
+    {
+        "Diagnosis": [
+            "Symptoms indicate low airflow, air bypassing the evaporator coil, or a frozen evaporator coil (indoor coil)."
+        ],
+        "Symptoms": [
+            "Low suction pressure",
+            "Low liquid pressure",
+            "Normal total superheat",
+            "Low subcooling",
+            "Evaporator coil possibly operating near freezing conditions",
+            "Possible TXV/TEV hunting"
+        ],
+        "Operational Characteristics": [
+            "Low airflow will result in reduced total capacity, increased operational costs, poor relative humidity control if coil freezes, and potential compressor damage."
+        ],
+        "Recommendations": [
+            "Verify filter and evaporator coil are clean, verify blower is clean, verify secondary heat exchanger is clean if system includes a 90+ AFUE warm air furnace, measure and verify airflow with an appropriate method. Set airflow to manufacturer's recommended airflow.",
+            "For A/C systems in temperate North American climates nominal airflow is 400 CFM/ton across a dry evaporator coil. (450 CFM/ton for dry climates and 350 CFM/ton for humid climates)."
+        ],
+        "Notes": [
+            "If system has a frozen coil or suction line, the evaporator coil must be completely defrosted prior to checking refrigerant charge. Air conditioning systems cannot be charged if the evaporator has ice on the coil."
+        ]
+    },
+    "21211":
+    {
+        "Diagnosis": [
+            "System measurements indicate a dirty or plugged condenser."
+        ],
+        "Symptoms": [
+            "Normal suction pressure",
+            "High liquid pressure",
+            "Normal total superheat",
+            "High subcooling",
+            "High discharge line temperature"
+        ],
+        "Operational Characteristics": [
+            "A dirty condenser will significantly increase operational costs, reduce cooling capacity, and increase discharge line temperature. In extreme cases a dirty condenser can break down refrigerant oil and/or overheat the compressor, and decrease relative humidity control."
+        ],
+        "Recommendations": [
+            "Follow safety precautions and remove power. Clean the condenser with low to medium pressurized water from the inside out to push dirt back out the way that it entered to coil. Use caution not to bend any fins. If the coil is plugged, chemical cleaning may be needed. If coil appears clean but still indicates like the coil is dirty, verify that the coil is not a split type condenser that will require coil separation for proper cleaning. Follow manufacturer's recommendations for cleaning the coil."
+        ],
+        "Notes": [
+        ]
+    },
+    "21222":
+    {
+        "Diagnosis": [
+            "System measurements indicate a dirty or plugged condenser."
+        ],
+        "Symptoms": [
+            "Normal suction pressure",
+            "High liquid pressure",
+            "Normal total superheat",
+            "High subcooling",
+            "High discharge line temperature"
+        ],
+        "Operational Characteristics": [
+            "A dirty condenser will significantly increase operational costs, reduce cooling capacity, and increase discharge line temperature. In extreme cases a dirty condenser can break down refrigerant oil and/or overheat the compressor, and decrease relative humidity control."
+        ],
+        "Recommendations": [
+            "Follow safety precautions and remove power. Clean the condenser with low to medium pressurized water from the inside out to push dirt back out the way that it entered to coil. Use caution not to bend any fins. If the coil is plugged, chemical cleaning may be needed. If coil appears clean but still indicates like the coil is dirty, verify that the coil is not a split type condenser that will require coil separation for proper cleaning. Follow manufacturer's recommendations for cleaning the coil."
+        ],
+        "Notes": [
+        ]
+    },
+    "22212":
+    {
+        "Diagnosis": [
+            "System measurements indicate a dirty or plugged condenser."
+        ],
+        "Symptoms": [
+            "Normal suction pressure",
+            "High liquid pressure",
+            "Normal total superheat",
+            "High subcooling",
+            "High discharge line temperature"
+        ],
+        "Operational Characteristics": [
+            "A dirty condenser will significantly increase operational costs, reduce cooling capacity, and increase discharge line temperature. In extreme cases a dirty condenser can break down refrigerant oil and/or overheat the compressor, and decrease relative humidity control."
+        ],
+        "Recommendations": [
+            "Follow safety precautions and remove power. Clean the condenser with low to medium pressurized water from the inside out to push dirt back out the way that it entered to coil. Use caution not to bend any fins. If the coil is plugged, chemical cleaning may be needed. If coil appears clean but still indicates like the coil is dirty, verify that the coil is not a split type condenser that will require coil separation for proper cleaning. Follow manufacturer's recommendations for cleaning the coil."
+        ],
+        "Notes": [
+        ]
+    },
+    "22222":
+    {
+        "Diagnosis": [
+            "System measurements indicate a dirty or plugged condenser."
+        ],
+        "Symptoms": [
+            "Normal suction pressure",
+            "High liquid pressure",
+            "Normal total superheat",
+            "High subcooling",
+            "High discharge line temperature"
+        ],
+        "Operational Characteristics": [
+            "A dirty condenser will significantly increase operational costs, reduce cooling capacity, and increase discharge line temperature. In extreme cases a dirty condenser can break down refrigerant oil and/or overheat the compressor, and decrease relative humidity control."
+        ],
+        "Recommendations": [
+            "Follow safety precautions and remove power. Clean the condenser with low to medium pressurized water from the inside out to push dirt back out the way that it entered to coil. Use caution not to bend any fins. If the coil is plugged, chemical cleaning may be needed. If coil appears clean but still indicates like the coil is dirty, verify that the coil is not a split type condenser that will require coil separation for proper cleaning. Follow manufacturer's recommendations for cleaning the coil."
+        ],
+        "Notes": [
+        ]
+    },
+    "22211":
+    {
+        "Diagnosis": [
+            "System measurements indicate a dirty or plugged condenser."
+        ],
+        "Symptoms": [
+            "Normal suction pressure",
+            "High liquid pressure",
+            "Normal total superheat",
+            "High subcooling",
+            "High discharge line temperature"
+        ],
+        "Operational Characteristics": [
+            "A dirty condenser will significantly increase operational costs, reduce cooling capacity, and increase discharge line temperature. In extreme cases a dirty condenser can break down refrigerant oil and/or overheat the compressor, and decrease relative humidity control."
+        ],
+        "Recommendations": [
+            "Follow safety precautions and remove power. Clean the condenser with low to medium pressurized water from the inside out to push dirt back out the way that it entered to coil. Use caution not to bend any fins. If the coil is plugged, chemical cleaning may be needed. If coil appears clean but still indicates like the coil is dirty, verify that the coil is not a split type condenser that will require coil separation for proper cleaning. Follow manufacturer's recommendations for cleaning the coil."
+        ],
+        "Notes": [
+        ]
+    },
+    "21011":
+    {
+        "Diagnosis": [
+            "System measurements indicate low head pressure. This condition typically occurs when the system is not operating at its rated capacity due to a lack of humidity in a dry climate (latent load)."
+        ],
+        "Symptoms": [
+            "Normal suction pressure",
+            "Low liquid pressure",
+            "Normal superheat",
+            "Normal subcooling"
+        ],
+        "Operational Characteristics": [
+            "Systems operating in dry climates often exhibit this condition along with below nominal total capacity. If the system is designed for a nominal 400 CFM per ton, this is completely normal operation as the system should be operation near or above 100% of the rated sensible capacity. As there is no latent heat to remove, the total capacity will be between 73% and 78% of the nominal capacity of the system."
+        ],
+        "Recommendations": [
+            "If the system is keeping up with the space cooling requirements, change the profile to the next higher condenser SEER rating, or benchmark the system to clear out the troubleshooting flag. The condenser is engineered to reject the heat of both the sensible and latent loads, and because there is no latent heat to reject, the condenser is effectively oversized for the total quantity of heat being rejected giving the systems characteristics of a higher efficiency condenser.",
+            "If the sensible capacity is too low, and the system cannot keep up with the space requirements, the airflow will need to be increased to achieve total capacity. Typical airflows per ton for systems engineered for high sensible capacity are 450-525 CFM/Ton. If the system is not able to satisfy the space cooling requirements, and everything else is normal, the airflow may need to be increased by increasing the fan speed, reducing duct restrictions, using a less restrictive filter, increasing the blower size, or making duct modifications to handle the higher airflow requirements. In rare cases, the system may not have been properly sized for the space cooling requirements."
+        ],
+        "Notes": [
+        ]
+    },
+    "22011":
+    {
+        "Diagnosis": [
+            "System Measurements indicate compressor may have bad valves or internal bypass."
+        ],
+        "Symptoms": [
+            "High suction pressure",
+            "Low liquid pressure",
+            "Normal superheat",
+            "Normal or High subcooling",
+            "Poor relative humidity control",
+            "Verify that the high side and low side valve handles on your gauges are closed.",
+            "Verify that the system is not bypassing hot gas if equipped with hot gas bypass controls."
+        ],
+        "Operational Characteristics": [
+            "A compressor with bad valves will have reduced cooling capacity, poor relative humidity control, and high operational costs. The system will have high suction pressure, low liquid pressure and most times will be very hot to the touch."
+        ],
+        "Recommendations": [
+            "Before condemning the compressor:",
+            "On semi-hermitic compressors, if the system equalizes quickly when shut off, this is a good indication that the discharge valve has failed.",
+            "Most modern scroll compressors do have a discharge check valve, however, some older models my not. Older scrolls can run backwards for a few seconds at power down while pressures equalize. If this happens, the addition of a discharge check valve is recommended.",
+            "A loud rushing noise during operation may indicate that the internal compressor bypass valve has opened and did not properly reset. After verifying all the above, compressor replacement may be required."
+        ],
+        "Notes": [
+        ]
+    },
+    "22010":
+    {
+        "Diagnosis": [
+            "System Measurements indicate compressor may have bad valves or internal bypass."
+        ],
+        "Symptoms": [
+            "High suction pressure",
+            "Low liquid pressure",
+            "Normal superheat",
+            "Normal or High subcooling",
+            "Poor relative humidity control",
+            "Verify that the high side and low side valve handles on your gauges are closed.",
+            "Verify that the system is not bypassing hot gas if equipped with hot gas bypass controls."
+        ],
+        "Operational Characteristics": [
+            "A compressor with bad valves will have reduced cooling capacity, poor relative humidity control, and high operational costs. The system will have high suction pressure, low liquid pressure and most times will be very hot to the touch."
+        ],
+        "Recommendations": [
+            "Before condemning the compressor:",
+            "On semi-hermitic compressors, if the system equalizes quickly when shut off, this is a good indication that the discharge valve has failed.",
+            "Most modern scroll compressors do have a discharge check valve, however, some older models my not. Older scrolls can run backwards for a few seconds at power down while pressures equalize. If this happens, the addition of a discharge check valve is recommended.",
+            "A loud rushing noise during operation may indicate that the internal compressor bypass valve has opened and did not properly reset. After verifying all the above, compressor replacement may be required."
+        ],
+        "Notes": [
+        ]
+    },
+    "21101":
+    {
+        "Diagnosis": [
+            "System measurements indicate a possibly loose, or improperly adjusted or insulated TXV/EXV bulb."
+        ],
+        "Symptoms": [
+            "High suction pressure",
+            "High liquid pressure",
+            "Low superheat",
+            "Low subcooling",
+            "Lower than normal discharge line temperatures",
+            "Possible flooding",
+            "Increased Amps draw"
+        ],
+        "Operational Characteristics": [
+            "A TXV/EXV equipped system with a loose or improperly connected sensing bulb cannot properly control evaporator superheat. The valve will over feed refrigerant. High suction pressure with low superheat can result in continuous or intermittent flooding, and/or TXV/EXV hunting and capacity losses. Flooding can result in severe compressor damage or loss of lubrication."
+        ],
+        "Recommendations": [
+            "Verify proper TXV/EXV bulb installation following manufacturer's mounting instructions including proper clock location, correct contact, mounting direction, external equalizer connection if equipped, proper installation of clamps, and insulation as required."
+        ],
+        "Notes": [
+        ]
+    },
+    "22101":
+    {
+        "Diagnosis": [
+            "System measurements indicate a possibly loose, or improperly adjusted or insulated TXV/TEV bulb."
+        ],
+        "Symptoms": [
+            "High suction pressure",
+            "High liquid pressure",
+            "Low superheat",
+            "Low subcooling",
+            "Lower than normal discharge line temperatures",
+            "Possible flooding",
+            "Possible TXV/TEV hunting"
+        ],
+        "Operational Characteristics": [
+            "A TXV/TEV equipped system with a loose or improperly connected sensing bulb cannot properly control evaporator superheat. The valve will over feed refrigerant. High suction pressure with low superheat can result in continuous or intermittent flooding, and/or TXV/TEV hunting and capacity losses. Flooding can result in severe compressor damage or loss of lubrication."
+        ],
+        "Recommendations": [
+            "Verify proper TXV/TEV bulb installation following manufacturer's mounting instructions including proper clock location, correct contact, mounting direction, external equalizer connection if equipped, proper installation of clamps, and insulation as required."
+        ],
+        "Notes": [
+        ]
+    },
+    "22000":
+    {
+        "Diagnosis": [
+            "System measurements indicate a possibly loose, or improperly adjusted or insulated TXV/TEV bulb."
+        ],
+        "Symptoms": [
+            "High suction pressure",
+            "High liquid pressure",
+            "Low superheat",
+            "Low subcooling",
+            "Lower than normal discharge line temperatures",
+            "Possible flooding",
+            "Possible TXV/TEV hunting"
+        ],
+        "Operational Characteristics": [
+            "A TXV/TEV equipped system with a loose or improperly connected sensing bulb cannot properly control evaporator superheat. The valve will over feed refrigerant. High suction pressure with low superheat can result in continuous or intermittent flooding, and/or TXV/TEV hunting and capacity losses. Flooding can result in severe compressor damage or loss of lubrication."
+        ],
+        "Recommendations": [
+            "Verify proper TXV/TEV bulb installation following manufacturer's mounting instructions including proper clock location, correct contact, mounting direction, external equalizer connection if equipped, proper installation of clamps, and insulation as required."
+        ],
+        "Notes": [
+        ]
+    },
+    "22001":
+    {
+        "Diagnosis": [
+            "System measurements indicate a possibly loose, or improperly adjusted or insulated TXV/TEV bulb."
+        ],
+        "Symptoms": [
+            "High suction pressure",
+            "High liquid pressure",
+            "Low superheat",
+            "Low subcooling",
+            "Lower than normal discharge line temperatures",
+            "Possible flooding",
+            "Possible TXV/TEV hunting"
+        ],
+        "Operational Characteristics": [
+            "A TXV/TEV equipped system with a loose or improperly connected sensing bulb cannot properly control evaporator superheat. The valve will over feed refrigerant. High suction pressure with low superheat can result in continuous or intermittent flooding, and/or TXV/TEV hunting and capacity losses. Flooding can result in severe compressor damage or loss of lubrication."
+        ],
+        "Recommendations": [
+            "Verify proper TXV/TEV bulb installation following manufacturer's mounting instructions including proper clock location, correct contact, mounting direction, external equalizer connection if equipped, proper installation of clamps, and insulation as required."
+        ],
+        "Notes": [
+        ]
+    },
+    "21110":
+    {
+        "Diagnosis": [
+            "System measurements indicate a slight undercharge (low on refrigerant)"
+        ],
+        "Symptoms": [
+            "Normal suction pressure",
+            "Normal liquid pressure",
+            "Normal superheat",
+            "Low subcooling"
+        ],
+        "Operational Characteristics": [
+            "A unit running with a slight undercharge may not achieve full capacity during peak demand periods, resulting in extended periods of operation, increased electrical consumption and higher than normal conditioned space temperature"
+        ],
+        "Recommendations": [
+            "Add refrigerant to achieve designed subcooling target."
+        ],
+        "Notes": [
+        ]
+    },
+    "21121":
+    {
+        "Diagnosis": [
+            "System measurements indicate total superheat is excessive"
+        ],
+        "Symptoms": [
+            "Normal suction pressure",
+            "Normal liquid pressure",
+            "High superheat",
+            "Normal subcooling"
+        ],
+        "Operational Characteristics": [
+            "High total superheat is an indication of inadequate suction line insulation or partially restricted TXV. Install a suction line temperature sensor at the evaporator outlet to measure the suction line temperature. A significant increase in suction line temperature (5 degrees or more) indicates that the suction line insulation may be inadequate. Add additional suction line insulation.",
+            "If there is not a significant increase in suction line temperature between the evaporator outlet and the condenser inlet, and the superheat is higher than normal, check the TXV for a partial restriction."
+        ],
+        "Recommendations": [
+            "Add additional insulation to suction line as needed to decrease the superheat gain in the suction line. Inspect the TXV for a partial restriction, repair or replace as needed."
+        ],
+        "Notes": [
+        ]
+    },
+    "22200":
+    {
+        "Diagnosis": [
+            "System measurements indicate a possibly loose, or improperly adjusted or insulated TXV/TEV bulb."
+        ],
+        "Symptoms": [
+            "High suction pressure",
+            "High liquid pressure",
+            "Low superheat",
+            "Low subcooling",
+            "Lower than normal discharge line temperatures",
+            "Possible flooding",
+            "Possible TXV/TEV hunting"
+        ],
+        "Operational Characteristics": [
+            "A TXV/TEV equipped system with a loose or improperly connected sensing bulb cannot properly control evaporator superheat. The valve will over feed refrigerant. High suction pressure with low superheat can result in continuous or intermittent flooding, and/or TXV/TEV hunting and capacity losses. Flooding can result in severe compressor damage or loss of lubrication."
+        ],
+        "Recommendations": [
+            "Verify proper TXV/TEV bulb installation following manufacturer's mounting instructions including proper clock location, correct contact, mounting direction, external equalizer connection if equipped, proper installation of clamps, and insulation as required."
+        ],
+        "Notes": [
+        ]
+    },
+    "default":
+    {
+        "Diagnosis": [
+            "System is exhibiting a non-typical problem. Before proceeding, verify the correct profile is selected, the correct refrigerant is selected, the probes are connected properly and mapped to the correct locations (if using the iManifold™ Product). This could also be the result of multiple system problems typically related to refrigerant charge and/or airflow across the evaporator or condenser. Verify correct airflow prior to adjusting charge."
+        ],
+        "Symptoms": [
+            "Low/high suction/vapor pressure",
+            "Low/high liquid/discharge pressure",
+            "Low/high superheat",
+            "Low/high subcooling"            
+        ],
+        "Operational Characteristics": [
+            "Various individual Symptoms of improper operation that typically do not occur without affecting other system measurements."
+        ],
+        "Recommendations": [
+            "Verify correct profile and refrigerant",
+            "Verify proper probe placement, connection and mapping (if using the iManifold™ Product)",
+            "Verify condenser is clean",
+            "Verify evaporator coil is clean",
+            "Verify correct airflow across the evaporator",
+            "Verify that any manual input values are in correct fields"
+        ],
+        "Notes": [
+        ]
+    }
+}

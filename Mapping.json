@@ -1,0 +1,119 @@
+{
+	"mappingTable": {
+            "Suction Pressure at Evaporator": {
+            "Text": "Suction Pressure at Evaporator",
+            "Mapping": "suctionPressureEvap",
+            "abv": "spe"
+        },
+        "Suction Pressure at Compressor": {
+            "Text": "Suction Pressure at Compressor",
+            "Mapping": "suctionPressureComp",
+            "abv": "spc"
+        },
+        "Liquid Line Pressure at Condenser": {
+            "Text": "Liquid Line Pressure at Condenser",
+            "Mapping": "liquidLinePressureCond",
+            "abv": "llpc"
+        },
+        "Liquid Line Pressure at Evaporator": {
+            "Text": "Liquid Line Pressure at Evaporator",
+            "Mapping": "liquidLinePressureEvap",
+            "abv": "llpe"
+        },
+        "Discharge Line Pressure": {
+            "Text": "Discharge Line Pressure"
+            , "Mapping": "dischargeLinePressure",
+            "abv": "dlp"
+        },
+        "Outdoor Air Dry Bulb": {
+            "Text": "Outdoor Air Dry Bulb",
+            "Mapping": "outdoorAirDryBulb",
+            "abv": "oadb"
+        },
+        "Outdoor Air Relative Humidity": {
+            "Text": "Outdoor Air Relative Humidity",
+            "Mapping": "outdoorAirRH",
+            "abv": "oarh"
+        },
+        "Condenser Entering Air Dry Bulb": {
+            "Text": "Condenser Entering Air Dry Bulb",
+            "Mapping": "condEntAirDryBulb",
+            "abv": "ceadb"
+        },
+        "Condenser Entering Air Relative Humidity": {
+            "Text": "Condenser Entering Air Relative Humidity",
+            "Mapping": "condEntAirRH",
+            "abv": "cearh"
+        },
+        "Condenser Leaving Air Dry Bulb": {
+            "Text": "Condenser Leaving Air Dry Bulb",
+            "Mapping": "condLeavAirDryBulb",
+            "abv": "cladb"
+        },
+        "Condenser Leaving Air Relative Humidity": {
+            "Text": "Condenser Leaving Air Relative Humidity",
+            "Mapping": "condLeavAirRH",
+            "abv": "clarh"
+        },
+        "Return Air Dry Bulb": {
+            "Text": "Return Air Dry Bulb",
+            "Mapping": "returnAirDryBulb",
+            "abv": "radb"
+        },
+        "Return Air Relative Humidity": {
+            "Text": "Return Air Relative Humidity",
+            "Mapping": "returnAirRH",
+            "abv": "rarh"
+        },
+        "Supply Air Dry Bulb": {
+            "Text": "Supply Air Dry Bulb",
+            "Mapping": "supplyAirDryBulb",
+            "abv": "sadb"
+        },
+        "Supply Air Relative Humidity": {
+            "Text": "Supply Air Relative Humidity",
+            "Mapping": "supplyAirRH",
+            "abv": "sarh"
+        },
+        "Suction Line Temp at Evaporator": {
+            "Text": "Suction Line Temp at Evaporator",
+            "Mapping": "suctionLineTempEvap",
+            "abv": "slte"
+        },
+        "Suction Line Temp at Compressor": {
+            "Text": "Suction Line Temp at Compressor",
+            "Mapping": "suctionLineTempComp",
+            "abv": "sltc"
+        },
+        "Liquid Line Temp at Condenser": {
+            "Text": "Liquid Line Temp at Condenser",
+            "Mapping": "liquidLineTempCond",
+            "abv": "lltc"
+        },
+        "Liquid Line Temp at Evaporator": {
+            "Text": "Liquid Line Temp at Evaporator",
+            "Mapping": "liquidLineTempEvap",
+            "abv": "llte"
+        },
+        "Discharge Line Temp": {
+            "Text": "Discharge Line Temp",
+            "Mapping": "dischargeLineTemp",
+            "abv": "dlt"
+        },
+        "Return Static Air Plenum": {
+            "Text": "Return Static Air Plenum",
+            "Mapping": "returnStaticAir",
+            "abv": "rsa"
+        },
+        "Supply Static Air Plenum": {
+            "Text": "Supply Static Air Plenum",
+            "Mapping": "supplyStaticAir",
+            "abv": "ssa"
+        },
+        "Total Static Air Plenum": {
+            "Text": "Total Static Air Plenum",
+            "Mapping": "totalStaticAir",
+            "abv": "tsa"
+        }
+    }
+}
